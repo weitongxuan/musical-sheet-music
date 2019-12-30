@@ -1,0 +1,43 @@
+#bar {
+  flex: 0 0 auto;
+
+  min-width: 100px;
+
+  .lyrics-bar,
+  .chord-bar {
+      
+    display: flex;
+
+    .note {
+      overflow: hidden;
+      align-items: center;
+      .note-text {
+        text-align: center;
+        height: 22px;
+      }
+    }
+  }
+  .chord-bar {border-left: solid 1px;}
+  .chord-bar .note {
+    overflow: visible;
+  }
+  .lyrics-bar .note-4-0 {
+    border: solid 1px cadetblue;
+    border-left: none;
+    border-right: none;
+  }
+  .lyrics-bar .note-4-1 {
+    border: solid 1px cadetblue;
+    border-right: solid 1px #b0d9da;
+    border-left: none;
+  }
+  .lyrics-bar .note-4-2 {
+    border: solid 1px cadetblue;
+    border-right: none;
+    border-left: none;
+  }
+  .lyrics-bar .note-4-3 {
+    border: solid 1px cadetblue;
+    border-left: none;
+  }
+}

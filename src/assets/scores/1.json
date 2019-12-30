@@ -1,0 +1,118 @@
+{
+  "title": "爛泥",
+  "speed": 106,
+  "notesPerBar" : 4,
+  "meterPerNote" : 4,
+  "lyrics": [
+    {
+      "lyrics": "",
+      "meter": 4
+    },
+    {
+      "lyrics": "喔",
+      "meter": 4
+    },
+    {
+      "lyrics": "多",
+      "meter": 4
+    },
+    {
+      "lyrics": "麼",
+      "meter": 8
+    },
+    {
+      "lyrics": "美",
+      "meter": 4
+    },
+    {
+      "lyrics": "麗",
+      "meter": 4
+    },
+    {
+      "lyrics": "的",
+      "meter": 8
+    },
+    {
+      "lyrics": "一",
+      "meter": 4
+    },
+    {
+      "lyrics": "顆",
+      "meter": 8
+    },{
+      "lyrics": "星",
+      "meter": 8
+    },
+    {
+      "lyrics": "",
+      "meter": 1
+    },
+    {
+      "lyrics": "",
+      "meter": 1
+    },
+    {
+      "lyrics": "",
+      "meter": 4
+    },
+    {
+      "lyrics": "怎",
+      "meter": 16
+    },
+    {
+      "lyrics": "麼",
+      "meter": 16
+    },
+    {
+      "lyrics": "會",
+      "meter": 8
+    },
+    {
+      "lyrics": "",
+      "meter": 4
+    },
+    {
+      "lyrics": "怎",
+      "meter": 16
+    },
+    {
+      "lyrics": "麼",
+      "meter": 16
+    },
+    {
+      "lyrics": "會",
+      "meter": 8
+    }
+  ],
+  "chord": [
+      {
+        "chord": "Em",
+        "meter": 1
+      },{
+        "chord": "Bm7",
+        "meter": 1
+      },
+      {
+        "chord": "F#",
+        "meter": 1
+      },{
+        "chord": "Dm",
+        "meter": 1
+      },
+      {
+        "chord": "Em",
+        "meter": 1
+      },{
+        "chord": "Bm7",
+        "meter": 1
+      },
+      {
+        "chord": "F#",
+        "meter": 1
+      },{
+        "chord": "F#",
+        "meter": 1
+      }
+
+  ]
+}
