@@ -9,6 +9,7 @@ export interface Chord {
   
 }
 export interface Note{
+    id?: number;
     content: string;
     meter: number;
 }

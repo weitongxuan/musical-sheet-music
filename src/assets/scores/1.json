@@ -5,112 +5,170 @@
   "meterPerNote" : 4,
   "lyrics": [
     {
-      "lyrics": "",
+      "content": "",
       "meter": 4
     },
     {
-      "lyrics": "喔",
+      "content": "喔",
       "meter": 4
     },
     {
-      "lyrics": "多",
+      "content": "多",
       "meter": 4
     },
     {
-      "lyrics": "麼",
+      "content": "麼",
       "meter": 8
     },
     {
-      "lyrics": "美",
+      "content": "美",
       "meter": 4
     },
     {
-      "lyrics": "麗",
+      "content": "麗",
       "meter": 4
     },
     {
-      "lyrics": "的",
+      "content": "的",
       "meter": 8
     },
     {
-      "lyrics": "一",
+      "content": "一",
       "meter": 4
     },
     {
-      "lyrics": "顆",
+      "content": "顆",
       "meter": 8
     },{
-      "lyrics": "星",
+      "content": "星",
       "meter": 8
     },
     {
-      "lyrics": "",
+      "content": "",
       "meter": 1
     },
     {
-      "lyrics": "",
+      "content": "",
       "meter": 1
     },
     {
-      "lyrics": "",
+      "content": "",
       "meter": 4
     },
     {
-      "lyrics": "怎",
+      "content": "怎",
       "meter": 16
     },
     {
-      "lyrics": "麼",
+      "content": "麼",
       "meter": 16
     },
     {
-      "lyrics": "會",
+      "content": "會",
       "meter": 8
     },
     {
-      "lyrics": "",
+      "content": "",
       "meter": 4
     },
     {
-      "lyrics": "怎",
+      "content": "怎",
       "meter": 16
     },
     {
-      "lyrics": "麼",
+      "content": "麼",
       "meter": 16
     },
     {
-      "lyrics": "會",
+      "content": "會",
+      "meter": 8
+    },
+    {
+      "content": "",
+      "meter": 4
+    },
+    {
+      "content": "",
+      "meter": 8
+    },
+    {
+      "content": "就",
+      "meter": 8
+    },
+    {
+      "content": "變",
+      "meter": 8
+    },
+    {
+      "content": "",
+      "meter": 8
+    },
+    {
+      "content": "成",
+      "meter": 8
+    },
+    {
+      "content": "了",
+      "meter": 8
+    },
+    {
+      "content": "",
+      "meter": 4
+    },
+    {
+      "content": "一",
+      "meter": 8
+    },
+    {
+      "content": "攤",
+      "meter": 8
+    },
+    {
+      "content": "",
+      "meter": 8
+    },
+    {
+      "content": "爛",
+      "meter": 8
+    },
+    {
+      "content": "",
+      "meter": 8
+    },
+    {
+      "content": "泥",
       "meter": 8
     }
+
+
   ],
   "chord": [
       {
-        "chord": "Em",
+        "content": "Em",
         "meter": 1
       },{
-        "chord": "Bm7",
+        "content": "Bm7",
         "meter": 1
       },
       {
-        "chord": "F#",
+        "content": "F#",
         "meter": 1
       },{
-        "chord": "Dm",
+        "content": "Dm",
         "meter": 1
       },
       {
-        "chord": "Em",
+        "content": "Em",
         "meter": 1
       },{
-        "chord": "Bm7",
+        "content": "Bm7",
         "meter": 1
       },
       {
-        "chord": "F#",
+        "content": "F#",
         "meter": 1
       },{
-        "chord": "F#",
+        "content": "F#",
         "meter": 1
       }
 

@@ -1,11 +1,8 @@
 #bar {
   flex: 0 0 auto;
 
-  min-width: 100px;
-
   .lyrics-bar,
   .chord-bar {
-      
     display: flex;
 
     .note {
@@ -15,15 +12,17 @@
         text-align: center;
         height: 22px;
       }
+      .edit-hover:hover {
+          background-color: lightgray;
+          cursor: pointer;
+      }
     }
   }
-  .chord-bar {border-left: solid 1px;}
   .chord-bar .note {
     overflow: visible;
   }
   .lyrics-bar .note-4-0 {
     border: solid 1px cadetblue;
-    border-left: none;
     border-right: none;
   }
   .lyrics-bar .note-4-1 {

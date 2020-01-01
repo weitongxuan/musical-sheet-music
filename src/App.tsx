@@ -1,7 +1,6 @@
 import React from "react";
 import styles from "./App.less";
 import {
-  BrowserRouter as Router,
   Switch,
   Route,
   Link,
